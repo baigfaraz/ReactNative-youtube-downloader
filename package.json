@@ -9,10 +9,28 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-clipboard/clipboard": "^1.11.2",
+    "@react-native-community/clipboard": "^1.5.1",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/drawer": "^6.6.3",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.13",
+    "axios": "^1.4.0",
     "expo": "~49.0.5",
+    "expo-av": "~13.4.1",
+    "expo-constants": "^14.4.2",
     "expo-status-bar": "~1.6.0",
+    "get-youtube-id": "^1.0.1",
+    "query-string": "^8.1.0",
     "react": "18.2.0",
-    "react-native": "0.72.3"
+    "react-native": "0.72.3",
+    "react-native-clipboard": "^0.0.5",
+    "react-native-fs": "^2.20.0",
+    "react-native-share": "^9.2.3",
+    "react-native-svg": "^13.10.0",
+    "react-native-vector-icons": "^10.0.0",
+    "react-native-video": "^5.2.1",
+    "rn-fetch-blob": "^0.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
